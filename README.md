@@ -10,12 +10,13 @@ partition([1,2,3,4,5], 1) retourne: [ [1], [2], [3], [4], [5] ]
 * JDK 8+
 * JUnit 4
 
-# Project tree
+## Project tree
 
 src
  * [main](src/main)
    * [OperationMain.java](src/main/OperationMain.java)
  * [test](src/test)
    * [OperationMainTest.java](src/test/OperationMainTest.java)
+
 JUnit4
  * [junit.jar](JUnit4/junit.jar)
